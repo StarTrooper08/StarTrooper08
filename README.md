@@ -5,4 +5,4 @@
 
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=DevAStar08 & show_icons=true alt=DevAStar08 /> </p>}
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=DevAStar08 & show_icons=true alt=DevAStar08 /> </p>
