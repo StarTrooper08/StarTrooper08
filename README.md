@@ -18,10 +18,10 @@
 
 - ⚡ Fun fact: **Like to Learn new technologies and methods to built Cross platform Mobile Apps**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+<!--<p align="left">
+<h3 align="left">Connect with me:</h3>-->
 
-<a href="linkedin_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /> </a>
+<!--<a href="linkedin_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" /> </a>-->
 
 
 
