@@ -10,7 +10,7 @@
 
 - 💻 I’m currently learning about **Flutter with Flame 2D Game Engine**
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **Experienced Mobile App Developer**
+- 🤜🏻🤛🏻 I’m looking to collaborate with **Experienced Mobile App Developer**
 
 - 💬 Ask me about **PC BUILT and AquaScaping**
 
