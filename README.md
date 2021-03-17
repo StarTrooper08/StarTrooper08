@@ -49,5 +49,5 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarTrooper08&layout=compact&theme=white" alt="Atharva" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarTrooper08&layout=compact&theme=white" alt="Atharva" /></p><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StarTrooper08&show_icons=true&theme=black" alt="Atharva" /></p>
