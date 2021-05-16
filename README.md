@@ -6,11 +6,11 @@
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
 
-- 💻 I’m currently learning about **Flutter with Flame 2D Game Engine**
+- 💻 I’m currently Learning **Docker**
 
 - 🤜🏻🤛🏻 I’m looking to collaborate with **Experienced Mobile App Developer**
 
-- 💬 Ask me about **PC BUILT and AquaScaping**
+- 💬 Ask me about **Android Development and Open Source**
 
 <!--- 📧 How to reach me? **Connect to me via Email [Atharva](email here)**-->
 
