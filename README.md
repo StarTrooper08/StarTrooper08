@@ -1,5 +1,4 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/StarTrooper08?color=green&logo=github">
-
 <img src="https://komarev.com/ghpvc/?username=StarTrooper08" alt="page views" />
 
 
