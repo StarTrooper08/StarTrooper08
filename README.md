@@ -1,5 +1,6 @@
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/StarTrooper08?color=green&logo=github">
 
-
+<img src="https://komarev.com/ghpvc/?username=StarTrooper08" alt="page views" />
 
 
 <h1 align="center">Hi 👋🏻, I'm Atharva Shirdhankar</h1>
@@ -52,3 +53,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarTrooper08&layout=compact&theme=white"/></p><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StarTrooper08&show_icons=true&theme=black" /></p>
+
+<img alt="StarTrooper08's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StarTrooper08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
