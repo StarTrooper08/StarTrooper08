@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/StarTrooper08?color=green&logo=github"/>  <img src="https://komarev.com/ghpvc/?username=StarTrooper08" alt="page views" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/StarTrooper08?color=green&logo=github"/>  <img src="https://komarev.com/ghpvc/?username=StarTrooper08" alt="page views" />  ![Open Source Love](https://img.shields.io/badge/Open%20%E2%9D%A4%EF%B8%8FSource-blue)
 
 
 <h1 align="center">Hi 👋🏻, I'm Atharva Shirdhankar</h1>
