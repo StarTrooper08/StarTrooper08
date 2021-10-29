@@ -1,5 +1,8 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/StarTrooper08?color=green&logo=github"/> ![Open Source Love](https://img.shields.io/badge/Open%20%E2%9D%A4%EF%B8%8FSource-blue)
 
+
+<a href="https://app.daily.dev/StarTrooper"><img src="https://api.daily.dev/devcards/f00cee4361ca41e4b283885b79d213e3.png?r=gte" width="400" alt="Atharva Shirdhankar's Dev Card"/></a>
+
 <h1 align="center">Hi, I'm Atharva Shirdhankar</h1>
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
