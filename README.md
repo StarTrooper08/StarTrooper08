@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/StarTrooper08?color=green&logo=github"/> ![Open Source Love](https://img.shields.io/badge/Open%20%E2%9D%A4%EF%B8%8FSource-blue)
 
 
-<a href="https://app.daily.dev/StarTrooper"><img src="https://api.daily.dev/devcards/f00cee4361ca41e4b283885b79d213e3.png?r=gte" width="400" alt="Atharva Shirdhankar's Dev Card"/></a>
+
 
 <h1 align="center">Hi, I'm Atharva Shirdhankar</h1>
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
@@ -15,6 +15,23 @@
 <!--- 📧 How to reach me? **Connect to me via Email [Atharva](email here)**-->
 
 - ⚡ Fun fact: **Like to Learn new technologies and methods to built Cross platform Mobile Apps**
+
+
+
+<p align="right">
+<h3>Reach me </h3>
+<a href="https://twitter.com/_Atharva_08"><img align="center" src="https://user-images.githubusercontent.com/72031540/139949353-5b213410-0eb4-4f58-8007-588a42eb7bf8.png"/></a>
+<a href="https://dev.to/star_trooper/"><img align="left" src="https://user-images.githubusercontent.com/72031540/139948913-9d7fe272-804d-4b74-add7-1a7338ddd8c5.png"/></a>
+<a href="https://www.linkedin.com/in/atharvashirdhankar/"><img align="left" src="https://user-images.githubusercontent.com/72031540/139949418-1c6ce3f4-b83f-4ec9-b57d-a892398e7768.png"/></a>
+
+
+    
+
+
+
+
+</p>
+
 
 <!--<p align="left">
 <h3 align="left">Connect with me:</h3>-->
@@ -51,4 +68,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=StarTrooper08&theme=jolly" />
 </p>
 
-<img alt="StarTrooper08's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StarTrooper08&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="StarTrooper08's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StarTrooper08&bg_color=000000&color=68AEFF&line=FFFFFF&point=0C73C8&hide_border=true" height="150px" width="1200px"/>
+<p align="right">
+<a href="https://app.daily.dev/StarTrooper"><img src="https://api.daily.dev/devcards/f00cee4361ca41e4b283885b79d213e3.png?r=gte" width="300" alt="Atharva Shirdhankar's Dev Card"/></a>
+</p>
