@@ -24,10 +24,10 @@
 
 
 <p align="left">
-<img align="left" alt="StarTrooper08's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StarTrooper08&bg_color=000000&color=68AEFF&line=FFFFFF&point=0C73C8&hide_border=true" height="250px"/>
+<img align="left" alt="StarTrooper08's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StarTrooper08&bg_color=000000&color=68AEFF&line=FFFFFF&point=0C73C8&hide_border=true" height="200px" />
 </p>
 <p align="right">
-<a href="https://app.daily.dev/StarTrooper"><img src="https://api.daily.dev/devcards/f00cee4361ca41e4b283885b79d213e3.png?r=gte" height="250px" width="200px" alt="Atharva Shirdhankar's Dev Card"/></a>
+<a href="https://app.daily.dev/StarTrooper"><img src="https://api.daily.dev/devcards/f00cee4361ca41e4b283885b79d213e3.png?r=gte" height="230px" width="180px" alt="Atharva Shirdhankar's Dev Card"/></a>
 </p>
 
 
