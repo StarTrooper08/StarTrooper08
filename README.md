@@ -1,9 +1,13 @@
 
 ![Open Source Love](https://img.shields.io/badge/Open%20%E2%9D%A4%EF%B8%8FSource-blue)
-![banner](https://user-images.githubusercontent.com/72031540/140060483-557b741e-52f6-46da-adee-8ea92c4f542a.png)
 
 
- 
+
+<img align="left" src="https://user-images.githubusercontent.com/72031540/140060483-557b741e-52f6-46da-adee-8ea92c4f542a.png" />
+<!--<img align="right" src="https://user-images.githubusercontent.com/72031540/140651509-31d390f0-571c-46c5-840d-6ddc1d9407ee.png" height="200px" width="200px" />-->
+
+
+<br/>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/_Atharva_08"><img src="https://user-images.githubusercontent.com/72031540/139949353-5b213410-0eb4-4f58-8007-588a42eb7bf8.png"/></a>
