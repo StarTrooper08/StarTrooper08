@@ -4,7 +4,7 @@
 
 
 <img align="left" src="https://user-images.githubusercontent.com/72031540/140060483-557b741e-52f6-46da-adee-8ea92c4f542a.png" />
-<!--<img align="right" src="https://user-images.githubusercontent.com/72031540/140651509-31d390f0-571c-46c5-840d-6ddc1d9407ee.png" height="200px" width="200px" />-->
+<p align="center">
 
 
 <br/>
@@ -23,20 +23,6 @@
   <li> 💬 Ask me about <b>Android Development</b> and <b>Open Source</b></li>
   <li> ⚡ Fun fact: Like to <b>Learn new Technologies</b></li>
 </ul>
-
-
-
-
-<p align="left">
-<img align="left" alt="StarTrooper08's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=StarTrooper08&bg_color=000000&color=68AEFF&line=FFFFFF&point=0C73C8&hide_border=true" height="200px" />
-</p>
-<p align="right">
-<a href="https://app.daily.dev/StarTrooper"><img src="https://api.daily.dev/devcards/f00cee4361ca41e4b283885b79d213e3.png?r=gte" height="230px" width="180px" alt="Atharva Shirdhankar's Dev Card"/></a>
-</p>
-
-
-
-
 
 
 ## Skills 
@@ -77,13 +63,17 @@
 </p>
 <br/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=StarTrooper08&show_icons=true&theme=jolly" />
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=StarTrooper08&show_icons=true&theme=jolly"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=StarTrooper08&theme=jolly" />
 </p>
+<!--<p align="right">
+  <a href="https://app.daily.dev/StarTrooper"><img src="https://api.daily.dev/devcards/f00cee4361ca41e4b283885b79d213e3.png?r=gte" height="230px" width="180px" alt="Atharva Shirdhankar's Dev Card"/></a>
+</p>-->
 
 
-#### Since I'm an Open Source Contributor , if you like my work you can buy me a book it will be alot for me. And it will surely help me to do more amazing open source contributions 😄
+
+#### I'm an Open Source Contributor , if you like my work you can buy me a book it will be alot for me. And it will surely help me to do more amazing open source contributions 😄
 <p align="center">
 <a href="https://www.buymeacoffee.com/Atharva08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
