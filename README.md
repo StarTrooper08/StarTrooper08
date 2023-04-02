@@ -1,7 +1,4 @@
-<div align="center"><h2>Hello👋, I'm Atharva Shirdhankar Open Source Dev exploring DevOps</h2></div>  
-  
-
-- 🔭 I’m currently working on **Flutter Icons Package**  
+<div align="center"><h2>Hello👋, I'm Atharva Shirdhankar Open Source Dev exploring DevOps</h2></div>   
   
 
 - 🌱 I’m currently learning **Kubernetes**  
