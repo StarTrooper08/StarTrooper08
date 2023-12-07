@@ -65,6 +65,8 @@
 
 
 ## Recent Articles
+[Efficiency-unleashed-dockerizing-and-optimizing-a-fastapi-app-with-slimtoolkit-and-github-actions](https://atharva08.hashnode.dev/efficiency-unleashed-dockerizing-and-optimizing-a-fastapi-app-with-slimtoolkit-and-github-actions)
+
 [Predicting the Rating of Cars using Mindsdb](https://atharva08.hashnode.dev/predicting-the-rating-of-cars-using-mindsdb)
 
 [Let's connect Mindsdb with Mariadb shell Locally and Predict the Mobile Price Range](https://atharva08.hashnode.dev/lets-connect-mindsdb-with-mariadb-shell-locally-and-predict-the-mobile-price-range)
