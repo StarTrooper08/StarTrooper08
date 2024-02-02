@@ -65,6 +65,8 @@
 
 
 ## Recent Articles
+
+[HashCraft: Craft EBook and PDF Doc from your HashNode Blog](https://atharva08.hashnode.dev/hashcraft-craft-ebook-and-pdf-doc-from-your-hashnode-blog)
 [Efficiency-unleashed-dockerizing-and-optimizing-a-fastapi-app-with-slimtoolkit-and-github-actions](https://atharva08.hashnode.dev/efficiency-unleashed-dockerizing-and-optimizing-a-fastapi-app-with-slimtoolkit-and-github-actions)
 
 [Predicting the Rating of Cars using Mindsdb](https://atharva08.hashnode.dev/predicting-the-rating-of-cars-using-mindsdb)
