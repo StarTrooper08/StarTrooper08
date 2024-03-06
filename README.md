@@ -1,10 +1,10 @@
 <div align="center"><h2>Hello👋, I'm Atharva Shirdhankar Open Source Dev exploring DevOps</h2></div>   
   
 
-- 🌱 I’m currently learning **Kubernetes**  
+- 🌱 I’m currently learning **Kubernetes** and exploring **Hugging Face**
   
 
-- ❓ Ask me about **Open Source, Docker and Mindsdb**  
+- ❓ Ask me about **Open Source, Docker and Github Actions**  
    
   
 
