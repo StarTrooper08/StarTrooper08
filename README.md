@@ -1,4 +1,4 @@
-<div align="center"><h2>Hello👋, I'm Atharva Shirdhankar Open Source Dev exploring DevOps</h2></div>   
+<div align="center"><h2>Hello👋, I'm Atharva Shirdhankar an Open Source Dev exploring DevOps</h2></div>   
   
 
 - 🌱 I’m currently learning **Kubernetes** and exploring **Hugging Face**
