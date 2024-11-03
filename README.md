@@ -21,12 +21,18 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/flask.png" alt="flask"/>
   <img width="65" height="48" src="https://raw.githubusercontent.com/tiangolo/fastapi/73dcc40f09e3587b10d3a93ee225c2f5d3fc83cb/docs/en/docs/img/logo-teal-vector.svg" alt="fastapi"/>
-  
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/azure-1.png" alt="azure-1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-cloud.png" alt="google-cloud"/>
   <img width="48" height="48" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4.png" alt="github actions"/>
+  
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/terraform.png" alt="terraform"/>
   <img width="48" height="48" src="https://avatars.githubusercontent.com/u/20057356?s=200&v=4.png" alt="slimtoolkit"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="raspberry-pi"/>
+  
 </div>
 
  
