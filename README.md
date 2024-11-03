@@ -29,7 +29,6 @@
   <img width="48" height="48" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4.png" alt="github actions"/>
   
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/terraform.png" alt="terraform"/>
-  <img width="48" height="48" src="https://avatars.githubusercontent.com/u/20057356?s=200&v=4.png" alt="slimtoolkit"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="raspberry-pi"/>
   
